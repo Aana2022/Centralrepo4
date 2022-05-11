@@ -4,5 +4,9 @@ the color of cat is black
 
 =======
 her eyes arte green
+<<<<<<< HEAD
 this line added in branch1
 >>>>>>> branch1
+=======
+this line is added in branch2
+>>>>>>> branch2
